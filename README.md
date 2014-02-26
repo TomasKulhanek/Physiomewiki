@@ -1,5 +1,14 @@
-physiomewiki
+Physiomewiki
 ============
 
-Complete web service with repository of simulators of human physiology to be wiki plugin.
-Current version of physiomewiki allows to define simulator screens of selected model to be visualized as simulator in a browser. The server is based on web service and workers which executes simulation from FMU exports. The FMU package conforming the FMI 1.0 www.fmi-standard.org
+the aim of this project is to research and develop web technologies needed to make a wiki or wiki like plugin for defining and performing simulation within web browser using HTML, javascript and remote simulation on the server or local simulation within browser
+
+* For technology and source codes see https://github.com/TomasKulhanek/Physiomewiki.
+* For sample simulation application see http://www.physiomewiki.org
+* For exemplar implementation and sample repository of simulators with educational materials see http://wiki.physiomewiki.org
+
+Related projects
+================
+* related project for compiling openmodelica to javascript, ... and run models within browser https://github.com/tshort/openmodelica-javascript
+
+
